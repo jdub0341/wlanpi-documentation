@@ -3,7 +3,7 @@ Authors: Nigel Bowden
 
 # Kismet
 <div style="float: center;">
-![Kismek Screenshot](images/kismet.png)
+![Kismet Screenshot](images/kismet.png)
 </div>
 
 Kismet is a wireless packet capture tool that allows you to view devices and networks within range. It provides many of the features of Wireshark, but only monitors wireless networks. delivered via an HTML interface.
